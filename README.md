@@ -5,6 +5,7 @@ ___
 <br>
 В данный момент я ищу работу\стажировку. Вот что я умею:
 
+ <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="48px" height="48px>
 ![alt text](https://cdn-icons-png.flaticon.com/512/174/174854.png)
 - CSS
 - SASS(SCSS)
