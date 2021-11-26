@@ -5,7 +5,7 @@ ___
 <br>
 В данный момент я ищу работу\стажировку. Вот что я умею:
 
-- HTML
+![alt text](https://cdn-icons-png.flaticon.com/512/174/174854.png)
 - CSS
 - SASS(SCSS)
 - JavaScript (базово)
