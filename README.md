@@ -5,7 +5,7 @@ ___
 <br>
 В данный момент я ищу работу\стажировку. Вот что я умею:
 
-
+https://github.com/iJustified/ida_project/blob/main/build/img/icons/required_input.svg
 - CSS
 - SASS(SCSS)
 - JavaScript (базово)
