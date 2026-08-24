@@ -43,4 +43,6 @@ Frontend-разработчик / Верстальщик. Занимаюсь в�
 ---
 
 📫 **Контакты:**  
+- **Telegram:** [@@call_me_ilya](https://t.me/@call_me_ilya)
+- **Email:** [theycallmeilya@gmail.com](mailto:theycallmeilya@gmail.com)
 - **GitHub:** [@ijustified](https://github.com/ijustified)
