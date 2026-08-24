@@ -1,13 +1,46 @@
-<b>Всем привет</b>
-<br>
-Меня зовут, Цыганков Илья, я разрабочик
-___
-Вот что я знаю:
-<br>
-![img](https://github.com/iJustified/iJustified/blob/main/img/icons8-html-5.svg) ![img](https://github.com/iJustified/iJustified/blob/main/img/icons8-css3.svg) ![img](https://github.com/iJustified/iJustified/blob/main/img/icons8-javascript.svg) ![img](https://github.com/iJustified/iJustified/blob/main/img/icons8-sass.svg) ![img](https://github.com/iJustified/iJustified/blob/main/img/icons8-gulp.svg)
-<br>
-Также умею:
-- Адаптивную и кроссбраузерную верстку
-- Верстку через Flexbox и Grid
-- CSS спрайты
-- Анимацию
+# 👋 Всем привет, я Илья Цыганков
+
+Frontend-разработчик / Верстальщик. Занимаюсь версткой и фронтенд-разработкой адаптивных сайтов, промо-страниц и веб-сервисов.
+
+---
+
+### 💻 Стек и навыки:
+`HTML5` • `CSS3 / SASS / SCSS` • `JavaScript (ES6+)` • `jQuery` • `BEM` • `Git` • `Figma`
+
+* Адаптивная и кроссбраузерная верстка (Desktop, Mobile, Tablet)
+* Построение сеток через Flexbox и Grid (включая сложные асимметричные layouts)
+* Оптимизация верстки (CSS-спрайты, Lazy Loading, минимизация repaint/reflow)
+* CSS-анимации, микро-взаимодействия и работа с Intersection Observer
+* Кастомные UI-компоненты (слайдеры Swiper, модальные окна, аккордеоны, табы)
+* Поддержка и доработка legacy-кода, скриптов и плагинов на jQuery
+
+---
+
+## 📂 Проекты
+
+### 📌 Подарочные карты «Спортмастер»
+Интерактивная промо-страница e-commerce для оформления подарочных карт. Реализована валидация кастомного ввода сумм/дат, табовый интерфейс для B2C/B2B сценариев, карусели вариантов дизайна, разворачивающиеся FAQ-аккордеоны и отзывчивая адаптивная сетка under mobile-first.  
+🔗 **Ссылка:** [sportmaster.ru/promo/125612524](https://www.sportmaster.ru/promo/125612524/)
+
+---
+
+### 📌 Demix Outlaw SS26
+Имиджевый Lookbook-лендинг коллаборации бренда. Реализована нестандартная дизайнерская Grid-сетка, интерактивные поп-апы «Собери образ» с привязкой карточек товаров, сложные слайдеры свайпов для мобилок и smooth-анимации на Intersection Observer.  
+🔗 **Ссылка:** [demix.ru/pages/demix-outlaw-ss26](https://www.demix.ru/pages/demix-outlaw-ss26/)
+
+---
+
+### 📌 Технологии Demix
+Модульный промо-каталог технологий материалов. Реализована система фильтрации категорий (Одежда/Обувь), гибкая архитектура переиспользуемых UI-компонентов по методологии БЭМ, поддержка темного/светлого брендинга и оптимизированный рендеринг большого количества медиа-карточек.  
+🔗 **Ссылка:** [demix.ru/pages/technology](https://www.demix.ru/pages/technology/)
+
+---
+
+### 📌 Best Games Tournament
+Интерактивное SPA-приложение «Турнир видеоигр» в стиле ретро-журнала 90-х. Написана логика турнирной сетки на Vanilla JS, реализовано сохранение сессии в LocalStorage, динамический кастомный выбор фаворита серии, ARIA-атрибуты доступности и кастомный стилизованный CSS UI.  
+🔗 **Ссылка:** [ijustified.github.io/best_games](https://ijustified.github.io/best_games/)
+
+---
+
+📫 **Контакты:**  
+- **GitHub:** [@ijustified](https://github.com/ijustified)
